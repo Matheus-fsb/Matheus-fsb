@@ -13,9 +13,9 @@
 
 ## 🚀 Minhas estatísticas do GitHub:
 
-![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&locale=pt-br)
+![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=Matheus-fsb&show_icons=true&theme=transparent&locale=pt-br)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-fsb&layout=compact&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Atualmente estudando:
 
