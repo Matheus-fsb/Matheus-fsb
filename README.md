@@ -1,12 +1,6 @@
 # Olá, sou o Matheus! 👋
 
-🎓 Estudante de Desenvolvimento de Sistemas no IFAL - Campus Maceió, atualmente no terceiro ano do Ensino Médio.  
-🎯 Aspirante a Cientista da Computação, planejando cursar na UFPE.  
-💻 Especializado em desenvolvimento Full Stack.  
-
-## 🚀 Minhas estatísticas do GitHub:
-
-<table>
+<table style="border:none;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Matheus-fsb&show_icons=true&theme=transparent&locale=pt-br" alt="Estatísticas do GitHub de Matheus" />
@@ -16,6 +10,10 @@
     </td>
   </tr>
 </table>
+
+🎓 Estudante de Desenvolvimento de Sistemas no IFAL - Campus Maceió, atualmente no terceiro ano do Ensino Médio.  
+🎯 Aspirante a Cientista da Computação, planejando cursar na UFPE.  
+💻 Especializado em desenvolvimento Full Stack.  
 
 ## ⚡ Tecnologias que uso:
 
