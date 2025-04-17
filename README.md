@@ -17,7 +17,7 @@
 
 ## ⚡ Tecnologias que uso:
 
-- **Linguagens**: JavaScript, HTML, CSS, Python, C++
+- **Linguagens**: JavaScript, HTML, CSS
 - **Frameworks/Bibliotecas**: React
 - **Banco de Dados**: MongoDB, MySQL
 - **Ferramentas**: Git, GitHub, Figma
