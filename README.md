@@ -11,19 +11,13 @@
   </tr>
 </table>
 
-- 🎓 **Estudante de Desenvolvimento de Sistemas no IFAL - Campus Maceió**, atualmente no terceiro ano do Ensino Médio.  
-- 🎯 **Aspirante a Cientista da Computação**, planejando cursar na UFPE.  
-- 💻 **Especializado em desenvolvimento Full Stack**.
+- 🎓 **Formação técnica em Desenvolvimento de Sistemas pelo IFAL - Campus Maceió**  
+- 🎓 **Estudante de Ciência da Computação na UFAL**  
+- 💻 **Desenvolvedor de software e designer gráfico**
 
 ## ⚡ Tecnologias que uso:
 
-- **Linguagens**: JavaScript, HTML, CSS
-- **Frameworks/Bibliotecas**: React
-- **Banco de Dados**: MongoDB, MySQL
+- **Linguagens**: Java, TypeScript, Javascript
+- **Frameworks/Bibliotecas**: Node.js, React
+- **Banco de Dados**: MongoDB, MySQL, PostgreSQL
 - **Ferramentas**: Git, GitHub, Figma
-
-## 🌱 Atualmente estudando:
-
-- Estrutura de Dados e Algoritmos
-- Desenvolvimento Web Full Stack
-- Engenharia de Software
